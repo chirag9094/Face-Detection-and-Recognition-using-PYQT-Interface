@@ -10,3 +10,7 @@ Face-Detection-and-Recognition-using-PYQT-Interface is an advanced application d
 4. High Accuracy: Achieves an impressive accuracy of 98% in face detection and recognition tasks, validated through comprehensive testing on benchmark datasets.
 5. Low Latency: Performs efficiently with minimal delay, suitable for real-time applications such as surveillance systems and interactive interfaces.
 
+## Output
+<img src="output_results/initial_screen.png">
+<img src="output_results/loading_screen.png">
+<img src="output_results/output.png">
